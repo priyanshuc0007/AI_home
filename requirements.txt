@@ -1,0 +1,6 @@
+opencv-python
+keras
+ tensorflow
+face_recognition
+numpy
+ matplotlib
