@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+myenv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore model weights or large data files
+*.h5
+*.keras
+*.pkl
+
+# Ignore environment variables and configuration files
+.env
+config.json
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
