@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from src.model import load_model
+from src.segmentation import load_model
 
 def preprocess_image(image_path):
     # Load and preprocess the image for the VGGFace model

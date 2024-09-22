@@ -1,6 +1,9 @@
 opencv-python
 keras
- tensorflow
+tensorflow
 face_recognition
 numpy
- matplotlib
+matplotlib
+pillow
+pixellib
+scikit-image
